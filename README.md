@@ -1,50 +1,42 @@
-# 🌐 Radiant Architect — AI Researcher & Full-Stack Engineer
+🧠 AZHAR SHAKEEL
+AI Researcher & Full-Stack Architect | The Radiant Architect
+"Bridging Core Web Engineering with High-Precision AI."
 
-Hi, I’m **[AZHAR SHAKEEL]**, an AI Researcher & Full-Stack Engineer — often known as the **Radiant Architect** for building systems with clarity, precision, stability, and disciplined design.
+I specialize in Supervised AI Systems engineered for stability. I build complete web ecosystems where the foundation is solid HTML/CSS/JavaScript, scaled by modern frameworks only when needed.
 
-My engineering philosophy comes from **powerful Linux systems** I fell in love with when I first studied them.  
-Not “just minimal,” but **stable, optimized, predictable, and engineered with intention**.
+I am constantly active—building, deploying, and refining my own projects to bring intelligence to the web.
 
-I’ve been doing tech since childhood, and today I build systems that grow as I grow —  
-light in footprint, heavy in stability, designed to last.
+💎 Core Expertise
+🤖 AI Research (The Brain)
 
----
+Supervised Learning: Architecting accurate, low-compute models using Python.
+System Logic: High-precision backend algorithms designed for stability.
+Optimization: Tuning models for efficiency on real-world infrastructure.
+💻 Web Engineering (The Body)
 
-## ⚡ What I Build
-- Full-stack applications (frontend → backend → CI/CD)
-- Supervised AI systems optimized for **compute efficiency + stability**
-- High-precision backend logic powered by **Python**
-- Modern backend infrastructure using **Supabase** (auth, DB, APIs, real-time)
-- Systems engineered with Linux-style discipline and clarity
+Core Foundation: Expert-level HTML5, CSS3, & Vanilla JavaScript. I build from the ground up for performance and clarity.
+Scalable Architecture: Implementing React and Node.js specifically when project complexity requires it—not just for the sake of it.
+Database & Real-time: Leveraging Supabase for secure auth, database management, and APIs.
+🛠️ The Tech Stack
+💻 Core Frontend
+HTML5 · CSS3 · JavaScript (ES6+)
 
----
+⚛️ Framework Layer
+React · Node.js · TypeScript
 
-## 🧠 Engineering Principles
-- **Powerful Linux Philosophy:** modular, predictable, stable  
-- **Optimized Compute:** performance through tuning, profiling, and clarity  
-- **Security-First:** auditable logic, least-privilege, clean architecture  
-- **Human-Centered Simplicity:** powerful systems that feel effortless  
+🤖 AI & Backend
+Python · Supabase · API Design
 
----
+📦 Infrastructure
+Linux · Docker · CI/CD
 
-## 🛠️ Tech Stack
-**Frontend:** HTML · CSS · JavaScript · Bootstrap · TypeScript · React  
-**Backend:** Python (primary) · Node.js · Supabase  
-**Infrastructure:** Linux · Docker · CI/CD  
-**ML:** Supervised learning systems engineered for low/medium compute  
+🔭 Active Projects
+I am deeply engaged in building proprietary systems that merge AI with robust web interfaces.
 
----
+🧠 AI-Integrated Web Apps: Deploying supervised models directly into JavaScript-driven frontends.
+🚀 High-Performance Sites: Engineering lightweight, responsive websites using core web technologies.
+⚙️ Backend Pipelines: Creating stable data flows that power intelligent user experiences.
+🚀 The Philosophy
+I adhere to the Linux Philosophy: Use the right tool for the job. I start with the core—HTML, CSS, JS—and layer complexity only when the architecture demands it.
 
-## 🔭 Current Focus
-- Building stable AI pipelines  
-- Designing powerful low-compute systems  
-- Architecting real-time apps with Supabase  
-- Teaching through first-principles clarity  
-
----
-
-## 🌱 About Me
-Most of my time isn’t spent “working.”  
-It’s spent **building, experimenting, and architecting** real systems —  
-the way the Radiant Architect should.
-
+I build for longevity, not just for trends.
