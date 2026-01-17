@@ -1,18 +1,18 @@
 🧠 AZHAR SHAKEEL
 AI Researcher & Full-Stack Architect | The Radiant Architect
-"Merging Linux stability with AI intelligence. I engineer robust systems where code meets consciousness."
+"Merging Linux stability with AI intelligence. Building apps optimized for maximum stability, not just low power. Code meets consciousness."
 
 I specialize in Supervised AI Systems and Full-Stack Engineering. I build complete web ecosystems where the foundation is solid HTML/CSS/JavaScript, scaled by modern frameworks only when needed.
 
 My Unique Approach:
-I apply the philosophy of the perfect Linux system to my software: Stable, Efficient, and Powerful. I don't build bloated apps; I engineer precision tools that run smooth and feel effortless.
+I apply the philosophy of rock-solid engineering to my software: Stable, Reliable, and Powerful. I don't build bloated apps, nor do I sacrifice reliability for minimalism. I engineer precision tools that run smooth and never break.
 
 💎 Core Expertise
 🤖 AI Research (The Brain)
 
 Supervised Learning: Architecting high-accuracy models using Python.
-Stable Intelligence: Building AI systems that are reliable and predictable, not experimental.
-Efficiency: Optimizing models to run like a well-tuned kernel—fast and resource-smart.
+Stability Engineering: Building AI systems that are reliable and predictable, not experimental.
+Compute Efficiency: Optimizing models to be lean on resources without compromising on uptime or performance.
 💻 Web Engineering (The Body)
 
 Core Foundation: Expert-level HTML5, CSS3, & Vanilla JavaScript. I build from the ground up for performance.
