@@ -1,5 +1,7 @@
 
 🧠 AZHAR SHAKEEL
+
+
 AI Researcher & Full-Stack Architect | The Radiant Architect
 "Linux-grade stability fused with Neural Intelligence. Architecting logic, not just syntax."
 
