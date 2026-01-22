@@ -1,22 +1,23 @@
+
 🧠 AZHAR SHAKEEL
 AI Researcher & Full-Stack Architect | The Radiant Architect
-"Merging Linux stability with AI intelligence. Building apps optimized for maximum stability, not just low power. Code meets consciousness."
+"Linux-grade stability fused with Neural Intelligence. Architecting logic, not just syntax."
 
-I specialize in Supervised AI Systems and Full-Stack Engineering. I build complete web ecosystems where the foundation is solid HTML/CSS/JavaScript, scaled by modern frameworks only when needed.
+My power lies in Research and Architectural Insight. I do not follow trends; I analyze the real-world problem and deploy the precise solution—Supervised Learning, Unsupervised discovery, or LLM integration—based on what the data actually requires.
 
-My Unique Approach:
-I apply the philosophy of rock-solid engineering to my software: Stable, Reliable, and Powerful. I don't build bloated apps, nor do I sacrifice reliability for minimalism. I engineer precision tools that run smooth and never break.
+I engineer custom algorithms for mid-weight systems. Code meets consciousness here. I rely on my own discoveries and a hidden arsenal of tools to build systems that are stable, predictable, and powerful. I am a relentless self-learner, balancing Open Source principles with proprietary innovations that I keep hidden until they are perfect.
 
 💎 Core Expertise
-🤖 AI Research (The Brain)
+🤖 The Researcher's Mind
 
-Supervised Learning: Architecting high-accuracy models using Python.
-Stability Engineering: Building AI systems that are reliable and predictable, not experimental.
-Compute Efficiency: Optimizing models to be lean on resources without compromising on uptime or performance.
+Precision Mapping: I map real-world complexity to the exact logic required: Supervised, Unsupervised, or LLM.
+Custom Algorithms: I design tailored solutions from scratch rather than relying on bloated libraries.
+The Hidden Arsenal: Leveraging self-discovered, non-standard tools and scripts for performance that goes beyond mainstream capabilities.
+Self-Experimentation: My workflow is built on rigorous testing and discovery, ignoring industry hype.
 💻 Web Engineering (The Body)
 
-Core Foundation: Expert-level HTML5, CSS3, & Vanilla JavaScript. I build from the ground up for performance.
-Scalable Architecture: Implementing React and Node.js only when the project requires it—keeping the system light.
+Core Foundation: Expert-level HTML5, CSS3, & Vanilla JavaScript.
+Scalable Architecture: Implementing React and Node.js only when needed—keeping the system light.
 Database & Real-time: Leveraging Supabase for secure auth and database management.
 🛠️ The Tech Stack
 💻 Core Frontend
@@ -26,21 +27,25 @@ HTML5 · CSS3 · JavaScript (ES6+)
 React · Node.js · TypeScript
 
 🤖 AI & Backend
-Python · Supabase · API Design
+Python (Primary Backend) · Supabase · API Design
 
 📦 Infrastructure
 Linux Ecosystem · Docker · CI/CD
 
 🚀 The Philosophy
-"The Perfect Distro Structure"
-Just like a rock-solid Linux distribution, my code is engineered for stability over bloat.
+"The Mid-Weight Architecture"
+I reject the extremes of modern engineering.
 
-Lightweight Code: No unnecessary dependencies.
-Heavy Stability: Systems that don't crash.
-User Power: Tools that are easy to use but incredibly capable.
-🔭 What I Build
-I am constantly building proprietary systems that merge AI with robust web interfaces.
+Anti-Fragility: I reject "ultra-lightweight" systems that sacrifice stability for minimalism.
+Anti-Bloat: I reject "sugar-coated" systems that hide bad code behind shiny interfaces.
+The Standard: I engineer Mid-Weight Systems. I keep the full power and logic required for stability, but ruthlessly cut the bloat.
+🔭 What I Build & Write
+I am currently focused on proprietery research, operating part-time on my own terms.
 
-🧠 Stable AI Web Apps: Applications where AI intelligence runs smoothly alongside frontend logic.
-🚀 High-Performance Sites: Engineering responsive, fast-loading websites using core web technologies.
-⚙️ Backend Pipelines: Creating efficient data flows that power intelligent user experiences.
+🧠 Stable AI Web Apps: Custom algorithms integrated into robust web interfaces.
+🚀 High-Performance Sites: Responsive, fast-loading websites using core technologies.
+📝 Technical Blogs: Writing concise, personal insights on my discoveries and engineering experiments—sharing knowledge, not fluff.
+
+⛔ Availability
+Currently Closed to Noise.
+I am not accepting clients, calls, or "chats to pick my brain" at the moment. My time is dedicated to personal projects, research, and self-experimentation.
