@@ -1,4 +1,6 @@
 🧠 AZHAR SHAKEEL
+
+
 AI Researcher & Full-Stack Architect | The Radiant Architect
 Engineering Equilibrium Between Rock-Solid Infrastructure & Neural Intelligence
 
@@ -12,12 +14,15 @@ I reject engineering extremism in favor of Calculated Equilibrium:
 "I architect foundations that think, and intelligence that endures."
 
 🔬 CORE COMPETENCIES — THE ARCHITECT'S MIND
+
 Precision Domain	Engineering Manifestation
 Architectural Alchemy	Transmuting real-world chaos into elegant, deterministic systems
 Bespoke Intelligence	Crafting custom algorithms—scalpel-precise, library-agnostic
 Shadow Stack	Deploying proprietary toolchains beyond conventional benchmarks
 Empirical Rigor	Building through relentless experimentation, deaf to industry echo chambers
+
 🛠️ TECHNICAL ARSENAL
+
 ⚡ Core Fabric
 HTML5 · CSS3 · JavaScript (ES6+) — The unshakable foundation
 
@@ -40,6 +45,7 @@ Docker · CI/CD — Repeatable, versioned deployment
 Performance Optimization — Systems that breathe efficiently
 
 🧩 ARCHITECTURAL OUTPUTS
+
 🧠 Intelligent Web Systems
 Neural architectures embedded within production-grade interfaces—thinking endpoints with enterprise resilience.
 
@@ -65,6 +71,7 @@ A curated collection of underrated technologies that deliver disproportionate va
 A framework for choosing between supervised, unsupervised, and LLM-driven approaches.
 
 ⚠️ CURRENT OPERATIONAL STATUS
+
 🔒 Research Mode Active
 Not accepting client engagements, speculative conversations, or exploratory consultations.
 All cognitive resources allocated to proprietary architectural research and systems development.
