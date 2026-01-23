@@ -1,5 +1,3 @@
-🧠 AZHAR SHAKEEL
-
 
 AI Researcher & Full-Stack Architect | The Radiant Architect
 Engineering Equilibrium Between Rock-Solid Infrastructure & Neural Intelligence
