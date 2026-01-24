@@ -6,7 +6,9 @@ Engineering Equilibrium Between Rock-Solid Infrastructure & Neural Intelligence
 I reject engineering extremism in favor of Calculated Equilibrium:
 
 ⚖️ Not minimalist fragility — Systems built to withstand, not just exist
+
 ⚖️ Not bloated complexity — Intelligence without computational obesity
+
 ⚖️ ✅ ENGINEERED EQUILIBRIUM — Where every component carries its weight in value
 
 "I architect foundations that think, and intelligence that endures."
